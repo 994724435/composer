@@ -1,0 +1,8 @@
+{
+    "name": "yurunsoft/composer-lhl-demo",
+    "autoload": {
+        "psr-4": {
+            "Yurun\\ComposerPackageDemo\\": "src/"
+        }
+    }
+}
